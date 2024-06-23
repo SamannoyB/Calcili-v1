@@ -11,11 +11,17 @@ Otherwise, you can download the executable (.exe) from the releases. As of now, 
 
 Commands:
 ``` uci ``` : Details about itself and its author. 
+
 ``` isready ```: ``` readyok ```
+
 ``` ucinewgame ``` : Initializes a new game from the starting position.
+
 ``` position fen [fen] ``` : Initializes FEN
+
 ``` position startpos moves e2e4 e7e5 ```: Starts game as e2e4, e7e5.
+
 ``` quit ```: Terminates the process.
+
 
 ## Special thanks:
 ChatGPT (I am new to C#, helped me a lot)
