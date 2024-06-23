@@ -1,0 +1,17 @@
+F:\Calcili - Kaka Chess Bot\bin\Debug\net8.0\Calcili - Kaka Chess Bot.exe
+F:\Calcili - Kaka Chess Bot\bin\Debug\net8.0\Calcili - Kaka Chess Bot.deps.json
+F:\Calcili - Kaka Chess Bot\bin\Debug\net8.0\Calcili - Kaka Chess Bot.runtimeconfig.json
+F:\Calcili - Kaka Chess Bot\bin\Debug\net8.0\Calcili - Kaka Chess Bot.dll
+F:\Calcili - Kaka Chess Bot\bin\Debug\net8.0\Calcili - Kaka Chess Bot.pdb
+F:\Calcili - Kaka Chess Bot\obj\Debug\net8.0\Calcili - Kaka Chess Bot.GeneratedMSBuildEditorConfig.editorconfig
+F:\Calcili - Kaka Chess Bot\obj\Debug\net8.0\Calcili - Kaka Chess Bot.AssemblyInfoInputs.cache
+F:\Calcili - Kaka Chess Bot\obj\Debug\net8.0\Calcili - Kaka Chess Bot.AssemblyInfo.cs
+F:\Calcili - Kaka Chess Bot\obj\Debug\net8.0\Calcili - Kaka Chess Bot.csproj.CoreCompileInputs.cache
+F:\Calcili - Kaka Chess Bot\obj\Debug\net8.0\Calcili - Kaka Chess Bot.dll
+F:\Calcili - Kaka Chess Bot\obj\Debug\net8.0\refint\Calcili - Kaka Chess Bot.dll
+F:\Calcili - Kaka Chess Bot\obj\Debug\net8.0\Calcili - Kaka Chess Bot.pdb
+F:\Calcili - Kaka Chess Bot\obj\Debug\net8.0\Calcili - Kaka Chess Bot.genruntimeconfig.cache
+F:\Calcili - Kaka Chess Bot\obj\Debug\net8.0\ref\Calcili - Kaka Chess Bot.dll
+F:\Calcili - Kaka Chess Bot\bin\Debug\net8.0\ChessDotNet.dll
+F:\Calcili - Kaka Chess Bot\obj\Debug\net8.0\Calcili - Kaka Chess Bot.csproj.AssemblyReference.cache
+F:\Calcili - Kaka Chess Bot\obj\Debug\net8.0\Calcili .651764A2.Up2Date
